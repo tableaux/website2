@@ -5,5 +5,4 @@ echo "Number 3";
 echo "Number 4";
 echo "Number 5";
 echo "Number 6";
-echo "Number 7";
 ?>
